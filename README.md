@@ -4,9 +4,10 @@
 <p>Primeira prova de Introdução à Lógica de Programação do primeiro semestre da faculdade: criação de uma batalha naval utilizando apenas Java em uma única classe.</p>
 
 ## 🚀 Tecnologias
-<div style="text-align: left;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-</div>
+<span style="display: inline-flex; align-items: center; padding: 5px 10px; background-color: #ED8B00; color: white; border-radius: 20px; font-size: 14px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Icon" style="height: 20px; margin-right: 5px;">
+  Java
+</span>
 
 # Time
 
